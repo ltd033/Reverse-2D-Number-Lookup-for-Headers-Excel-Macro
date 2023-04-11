@@ -3,4 +3,4 @@ This GitHub project identifies the nearest numerical match to an input value wit
 
 FindNearestValue.bas is the excel module file, import it to the macro enabled excel sheet either by importing it or creating a module and copy and pasting the code. Some ways to execute the macro include running the FindNearestValue macro or creating a shape button and assigning the macro to that shape.
 
-[[/img/assign macro to shape.png|Macro Button]]
+[/img/assign macro to shape.png|Macro Button]
