@@ -1,4 +1,6 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Module1"		
+'If copy and pasting then copy below HERE"
+
 Sub FindNearestValue()
 
     ' Get user input for the value to search for and the range of the matrix
