@@ -1,7 +1,7 @@
 # Reverse-2D-Number-Lookup-for-Headers-Excel-Macro
-This Excel macro identifies the first nearest numerical match to an input value within a 2D matrix, range, or array. It returns key information such as the input value, closest match, row/column indexes, and headers to columns to the right of the input matrix. ChatGPT 3.5 was used to assist in generating this code.
+This Excel macro identifies the first nearest numerical match to an input value within a 2D matrix, range, or array. It returns key information: input value, closest match, row/column indexes, and headers to columns to the right of the input matrix. ChatGPT 3.5 was used to assist in generating this code.
 
-Create a module and copy and paste the code below the stated line. Some ways to execute the macro include running the FindNearestValue macro or creating a shape button and assigning the macro to that shape shown below.
+Download FindNearestValue.bas and import by Developer > Visual Basic > File > Import, then run macro or create a module and copy and paste the code below the stated line.
 
 
 ![image](https://github.com/ltd033/Reverse-2D-Number-Lookup-for-Headers-Excel-Macro/blob/main/img/assign%20macro%20to%20shape.png)
